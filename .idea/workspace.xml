@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3b0658b3-834c-4658-9b86-ef003a615e02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,14 +124,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/layouts" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\www\laravel6\resources\views" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\www\laravel6\resources\views\layouts" />
       <recent name="D:\www\laravel6\resources\views\static_pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\www\laravel6\resources\views" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -161,7 +165,7 @@
       <updated>1577945610867</updated>
       <workItem from="1577945612084" duration="837000" />
       <workItem from="1578038900806" duration="4600000" />
-      <workItem from="1578275095958" duration="334000" />
+      <workItem from="1578275095958" duration="1945000" />
     </task>
     <servers />
   </component>
