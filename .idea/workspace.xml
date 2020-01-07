@@ -4,6 +4,7 @@
     <list default="true" id="3b0658b3-834c-4658-9b86-ef003a615e02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/sessions/create.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +169,7 @@
       <workItem from="1577945612084" duration="837000" />
       <workItem from="1578038900806" duration="4600000" />
       <workItem from="1578275095958" duration="3444000" />
-      <workItem from="1578366091158" duration="2237000" />
+      <workItem from="1578366091158" duration="2654000" />
     </task>
     <servers />
   </component>
