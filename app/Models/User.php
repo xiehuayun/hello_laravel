@@ -60,7 +60,10 @@ class User extends Authenticatable
 
     public function feed()
     {
-        return $this->statuses()
+        $user_ids = $this->followings->pluck('id')->toArray();
+        array_push($user_ids, $this->id);
+        return Status::whereIn('user_id', $user_ids)
+            ->with('user')
             ->orderBy('created_at', 'desc');
     }
 
@@ -92,6 +95,6 @@ class User extends Authenticatable
 
     public function isFollowing($user_id)
     {
-        return $this->followings()->contains($user_id);
+        return $this->followings->contains($user_id);
     }
 }
