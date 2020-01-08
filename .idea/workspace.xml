@@ -4,7 +4,8 @@
     <list default="true" id="3b0658b3-834c-4658-9b86-ef003a615e02" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -136,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/auth/passwords" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/statuses" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
@@ -145,11 +146,11 @@
       <recent name="D:\www\laravel6\resources\views" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\www\laravel6\resources\views\statuses" />
       <recent name="D:\www\laravel6\resources\views\auth\passwords" />
       <recent name="D:\www\laravel6\resources\views\emails" />
       <recent name="D:\www\laravel6\resources\views\users" />
       <recent name="D:\www\laravel6\resources\views\sessions" />
-      <recent name="D:\www\laravel6\resources\views\shared" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -184,7 +185,7 @@
       <workItem from="1578038900806" duration="4600000" />
       <workItem from="1578275095958" duration="3444000" />
       <workItem from="1578366091158" duration="10949000" />
-      <workItem from="1578448221593" duration="8355000" />
+      <workItem from="1578448221593" duration="9922000" />
     </task>
     <servers />
   </component>
